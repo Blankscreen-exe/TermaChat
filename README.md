@@ -1,6 +1,6 @@
 ![TermaChat](docs/title.png)
 
-A terminal based chat application, designed for local as well as global chat.
+A terminal based peer-to-peer chat application, designed for local as well as global chat through either 1-1 or group chats.
 
 ## Features
 
@@ -19,6 +19,8 @@ A terminal based chat application, designed for local as well as global chat.
 - Admin registers users and sends them password for their account
 - The clients connect to the server using IP and PORT and their password
 - Client chooses a chatroom to connect and start chatting  
+
+![how_it_works](/docs/how_it_works.png)
 
 > [!NOTE]
 > The "How it works" flow is entirely hypothetical at this stage. It will be changed as time and it's development progresses.
